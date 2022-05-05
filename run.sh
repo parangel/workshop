@@ -6,5 +6,5 @@
 #SBATCH -o ./test.out # STDOUT
 
 module load r/4.0.0
-Rscript test.r
+Rscript test.R
 
